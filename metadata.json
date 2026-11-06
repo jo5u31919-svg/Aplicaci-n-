@@ -1,0 +1,8 @@
+{
+  "name": "Chronos System",
+  "description": "Temporizador del día con recarga a medianoche, temporizadores personalizados por etiquetas, misiones diarias, estadísticas semanales y sistema RPG estilo Solo Leveling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
